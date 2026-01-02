@@ -99,6 +99,6 @@
 		"eslint": "^9.39.2",
 		"eslint-config-amber": "^2.0.5",
 		"eslint-plugin-jsonc": "^2.21.0",
-		"globals": "^16.5.0"
+		"globals": "^17.0.0"
 	}
 }
