@@ -96,7 +96,7 @@
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.39.2",
-		"eslint": "^9.39.2",
+		"eslint": "^10.0.0",
 		"eslint-config-amber": "^2.0.5",
 		"eslint-plugin-jsonc": "^2.21.0",
 		"globals": "^17.2.0"
